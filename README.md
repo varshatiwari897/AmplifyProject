@@ -1,1 +1,1 @@
-# AmplifyProject
+# AmplifySample
